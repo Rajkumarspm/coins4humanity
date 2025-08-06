@@ -1,4 +1,1 @@
-node_modules/
-.env
-build/
-dist/
+-e "*.pyc\n__pycache__/\n.env\n.vscode/\n.DS_Store" 
